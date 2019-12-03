@@ -1,0 +1,5 @@
+strings: https://www.geeksforgeeks.org/c-string-class-and-its-applications/
+
+compile 32 bit program on 64 bit machine: https://www.geeksforgeeks.org/compile-32-bit-program-64-bit-gcc-c-c/ 
+
+pointers: https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/
